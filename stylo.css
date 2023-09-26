@@ -1,6 +1,6 @@
 p{
 font-size: large;
-color: aliceblue;
+color:purple;
 background-color: aqua;
 }
 
@@ -16,4 +16,15 @@ display:none;
 }
 div{
     margin-left: 45%;
+
+  font-size: 1000%;
+
+}
+
+p{
+text-align: center;
+
+font-style: italic;
+
+font-size: 300%;
 }
