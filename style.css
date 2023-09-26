@@ -1,0 +1,32 @@
+a{
+    color:white;
+}
+#menu li{
+display: inline;
+margin-right: 30px;
+font-size: 20px;
+
+}
+
+ #menu {
+    background-color: black;
+    padding: 20px;
+
+   
+}
+.losango{
+    display: flex;
+    transform: rotate(45deg);
+    position: relative;
+    width: 200px;
+    margin-top: 200px;
+    
+}
+#figura{
+    display: flex;
+ justify-content: center; 
+}
+    #figura li{
+        display: inline-block;
+
+        }
