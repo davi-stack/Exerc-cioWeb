@@ -18,8 +18,16 @@ font-size: 20px;
     display: flex;
     transform: rotate(45deg);
     position: relative;
-    width: 200px;
-    margin-top: 200px;
+    width: 150px;
+    margin-top: 150px;
+    
+}
+.losango:hover{
+    display: flex;
+    transform: rotate(90deg);
+    position: relative;
+    width: 150px;
+    margin-top: 150px;
     
 }
 #figura{
@@ -30,3 +38,7 @@ font-size: 20px;
         display: inline-block;
 
         }
+
+
+       
+       
