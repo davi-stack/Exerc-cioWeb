@@ -7,6 +7,13 @@ background-color: aqua;
 li{
     display: inline;
 }
-ul li:hover {
+#nao{
+    color: red;
+}
+#nao:hover {
 display:none;
+
+}
+div{
+    margin-left: 45%;
 }
