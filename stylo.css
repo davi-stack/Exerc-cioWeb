@@ -1,0 +1,9 @@
+p{
+font-size: large;
+color: aliceblue;
+background-color: aqua;
+}
+
+li{
+    display: inline;
+}
