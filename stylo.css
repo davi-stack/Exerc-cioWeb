@@ -7,3 +7,6 @@ background-color: aqua;
 li{
     display: inline;
 }
+ul li:hover {
+display:none;
+}
